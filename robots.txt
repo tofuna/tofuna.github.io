@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tofuna.csgad.com/Jdq/sitemap.xml.gz
